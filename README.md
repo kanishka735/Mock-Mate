@@ -1,5 +1,11 @@
 # [🎯 MockMate — Ace Every Interview](https://mock-mate-nine-mu.vercel.app)
 
+<p align="left">
+  <a href="https://mock-mate-nine-mu.vercel.app">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&width=600&lines=👉+Click+the+heading+above+to+visit+the+live+website!;⚡+AI-Powered+Resume+ATS+Analysis;🎤+Tailored+Mock+Interviews;📊+6-Dimension+Answer+Evaluation" alt="MockMate Banner" />
+  </a>
+</p>
+
 MockMate is a full-stack AI-powered interview preparation platform designed to help students and fresh graduates improve their resumes, identify skill gaps, prepare for interviews, and receive actionable feedback through intelligent evaluation systems.
 
 Unlike traditional interview preparation tools that provide static resources, MockMate delivers personalized recommendations, role-specific interview simulations, resume analysis, and performance insights powered by Generative AI.
